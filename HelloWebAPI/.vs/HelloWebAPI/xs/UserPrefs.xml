@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{3BE448CA-2E01-45AC-B90D-A28349685035}|Default">
+  <MonoDevelop.Ide.ItemProperties.HelloWebAPI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWebAPI/Program.cs">
+    <Files>
+      <File FileName="HelloWebAPI/Controllers/ValuesController.cs" Line="23" Column="10" />
+      <File FileName="HelloWebAPI/Program.cs" Line="17" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/rose/Desktop/DojoAssignments/netCore/API/HelloWebAPI/HelloWebAPI/Controllers/ValuesController.cs" relfile="HelloWebAPI/Controllers/ValuesController.cs" line="17" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

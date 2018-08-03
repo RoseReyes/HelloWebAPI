@@ -1,0 +1,14 @@
+/Users/rose/Desktop/DojoAssignments/netCore/API/HelloWebAPI/HelloWebAPI/bin/Debug/netcoreapp2.1/HelloWebAPI.deps.json
+/Users/rose/Desktop/DojoAssignments/netCore/API/HelloWebAPI/HelloWebAPI/bin/Debug/netcoreapp2.1/HelloWebAPI.runtimeconfig.json
+/Users/rose/Desktop/DojoAssignments/netCore/API/HelloWebAPI/HelloWebAPI/bin/Debug/netcoreapp2.1/HelloWebAPI.runtimeconfig.dev.json
+/Users/rose/Desktop/DojoAssignments/netCore/API/HelloWebAPI/HelloWebAPI/bin/Debug/netcoreapp2.1/HelloWebAPI.dll
+/Users/rose/Desktop/DojoAssignments/netCore/API/HelloWebAPI/HelloWebAPI/bin/Debug/netcoreapp2.1/HelloWebAPI.pdb
+/Users/rose/Desktop/DojoAssignments/netCore/API/HelloWebAPI/HelloWebAPI/obj/Debug/netcoreapp2.1/HelloWebAPI.csprojResolveAssemblyReference.cache
+/Users/rose/Desktop/DojoAssignments/netCore/API/HelloWebAPI/HelloWebAPI/obj/Debug/netcoreapp2.1/HelloWebAPI.csproj.CoreCompileInputs.cache
+/Users/rose/Desktop/DojoAssignments/netCore/API/HelloWebAPI/HelloWebAPI/obj/Debug/netcoreapp2.1/HelloWebAPI.RazorAssemblyInfo.cache
+/Users/rose/Desktop/DojoAssignments/netCore/API/HelloWebAPI/HelloWebAPI/obj/Debug/netcoreapp2.1/HelloWebAPI.RazorAssemblyInfo.cs
+/Users/rose/Desktop/DojoAssignments/netCore/API/HelloWebAPI/HelloWebAPI/obj/Debug/netcoreapp2.1/HelloWebAPI.AssemblyInfoInputs.cache
+/Users/rose/Desktop/DojoAssignments/netCore/API/HelloWebAPI/HelloWebAPI/obj/Debug/netcoreapp2.1/HelloWebAPI.AssemblyInfo.cs
+/Users/rose/Desktop/DojoAssignments/netCore/API/HelloWebAPI/HelloWebAPI/obj/Debug/netcoreapp2.1/HelloWebAPI.RazorTargetAssemblyInfo.cache
+/Users/rose/Desktop/DojoAssignments/netCore/API/HelloWebAPI/HelloWebAPI/obj/Debug/netcoreapp2.1/HelloWebAPI.dll
+/Users/rose/Desktop/DojoAssignments/netCore/API/HelloWebAPI/HelloWebAPI/obj/Debug/netcoreapp2.1/HelloWebAPI.pdb
